@@ -6,7 +6,7 @@ The app allows users to start a countdown, track the remaining time, and control
 
 My primary motivation for creating this app was to practice managing app states and timers in SwiftUI, while also incorporating design patterns like `@State`, `@Binding`, and `NavigationLink`. Additionally, this project helped me refine my UI design skills.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/FJXY6GGyInk)
 
 # Development Environment
 
